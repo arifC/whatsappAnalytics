@@ -1,0 +1,1 @@
+## Just put your chats as .txt files into this directory ##
